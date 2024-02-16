@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\111111\\hobby\\programowanie\\FootballLeague\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Migrations\\20240216213548_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FootballLeague\\Migrations\\20240216213548_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|d:\\111111\\hobby\\programowanie\\footballleague\\footballleague\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|solutionrelative:footballleague\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|d:\\111111\\hobby\\programowanie\\footballleague\\footballleague\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|solutionrelative:footballleague\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|d:\\111111\\hobby\\programowanie\\footballleague\\footballleague\\models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|solutionrelative:footballleague\\models\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|d:\\111111\\hobby\\programowanie\\footballleague\\footballleague\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|solutionrelative:footballleague\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|d:\\111111\\hobby\\programowanie\\footballleague\\footballleague\\models\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|solutionrelative:footballleague\\models\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|d:\\111111\\hobby\\programowanie\\footballleague\\footballleague\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|solutionrelative:footballleague\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|d:\\111111\\hobby\\programowanie\\footballleague\\footballleague\\footballleague.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|solutionrelative:footballleague\\footballleague.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240216213548_InitialCreate.cs",
+              "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Migrations\\20240216213548_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FootballLeague\\Migrations\\20240216213548_InitialCreate.cs",
+              "ToolTip": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Migrations\\20240216213548_InitialCreate.cs",
+              "RelativeToolTip": "FootballLeague\\Migrations\\20240216213548_InitialCreate.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T21:35:50.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "League.cs",
+              "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Models\\League.cs",
+              "RelativeDocumentMoniker": "FootballLeague\\Models\\League.cs",
+              "ToolTip": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Models\\League.cs",
+              "RelativeToolTip": "FootballLeague\\Models\\League.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T21:10:21.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Match.cs",
+              "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "FootballLeague\\Models\\Match.cs",
+              "ToolTip": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Models\\Match.cs",
+              "RelativeToolTip": "FootballLeague\\Models\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:13:24.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Models\\Queue.cs",
+              "RelativeDocumentMoniker": "FootballLeague\\Models\\Queue.cs",
+              "ToolTip": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Models\\Queue.cs",
+              "RelativeToolTip": "FootballLeague\\Models\\Queue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:13:19.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\appsettings.json",
+              "RelativeDocumentMoniker": "FootballLeague\\appsettings.json",
+              "ToolTip": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\appsettings.json",
+              "RelativeToolTip": "FootballLeague\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-16T18:06:30.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Program.cs",
+              "RelativeDocumentMoniker": "FootballLeague\\Program.cs",
+              "ToolTip": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Program.cs",
+              "RelativeToolTip": "FootballLeague\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T16:49:01.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FootballLeague\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FootballLeague\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T14:51:57.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FootballLeague.csproj",
+              "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\FootballLeague.csproj",
+              "RelativeDocumentMoniker": "FootballLeague\\FootballLeague.csproj",
+              "ToolTip": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\FootballLeague.csproj",
+              "RelativeToolTip": "FootballLeague\\FootballLeague.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-16T14:51:30.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
