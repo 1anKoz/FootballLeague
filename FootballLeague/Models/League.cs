@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace FootballLeague.Models
 {
@@ -6,8 +7,10 @@ namespace FootballLeague.Models
     {
         [Key]
         public int LeagueId { get; set; }
-        public string LeagueName { get; set; }
-        public string LegueSeason { get; set; }
-        public List<Queue> Queues { get; set; }
+        public string LeagueName { get; set; } = string.Empty;
+        public string LegueSeason { get; set; } = string.Empty;
+        [ForeignKey("Queue")]
+        //public int? QueueId { get; set; }
+        public List<Queue>? Queues { get; set; }
     }
 }

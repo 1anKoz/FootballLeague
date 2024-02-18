@@ -6,12 +6,12 @@ namespace FootballLeague.Models
     {
         [Key]
         public int MatchId { get; set; }
-        public string Date { get; set; }
-        public string Time { get; set; }
-        public string Team1 { get; set; }
-        public string Team2 { get; set; }
-        public string Score { get; set; }
+        public string Date { get; set; } = string.Empty;
+        public string Time { get; set; } = string.Empty;
+        public string Team1 { get; set; } = string.Empty;
+        public string Team2 { get; set; } = string.Empty;
+        public string Score { get; set; } = string.Empty;
         public int QueueId { get; set; }
-        public virtual Queue Queue{ get; set; }
+        public Queue Queue { get; set; }
     }
 }
