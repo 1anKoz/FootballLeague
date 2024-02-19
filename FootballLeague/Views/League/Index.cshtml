@@ -9,13 +9,22 @@
 <h1>Leagues</h1>
 
 <div class="row mb-3 text-center">
-    <div class="col-4 themed-grid-col">League</div>
-    <div class="col-4 themed-grid-col">Season</div>
+    <div class="col themed-grid-col"><b>League</b></div>
+    <div class="col themed-grid-col"><b>Season</b></div>
+    <div class="col themed-grid-col"> </div>
 </div>
+
+
     @foreach (var item in Model)
     {
         <div class="row mb-3 text-center">
-            <div class="col-4 themed-grid-col">@item.LeagueName</div>
-            <div class="col-4 themed-grid-col">@item.LegueSeason</div>
+            <div class="col themed-grid-col">
+                <div style="display: flex; align-items: center; justify-content: center;">
+                    <span>@item.LeagueName</span>
+                    <span>@item.LegueSeason</span>
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Match" asp-action="Index" style="margin-left: 10px;">Show Queues</a>
+                </div>
+            </div>
         </div>
     }
+
