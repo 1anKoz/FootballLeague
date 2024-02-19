@@ -3,13 +3,13 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace FootballLeague.Models
 {
-    public class Queue
+    public class QueueAndMatch
     {
         [Key]
-        public int QueueId { get; set; }
+        public int Id { get; set; }
         [ForeignKey("Match")]
         public List<Match>? Matches { get; set; }
-        public int LeagueId { get; set; }
-        public League League { get; set; }
+        [ForeignKey("Queue")]
+        public List<Queue>? Queues { get; set; }
     }
 }

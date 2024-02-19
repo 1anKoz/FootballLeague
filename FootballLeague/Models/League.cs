@@ -10,7 +10,6 @@ namespace FootballLeague.Models
         public string LeagueName { get; set; } = string.Empty;
         public string LegueSeason { get; set; } = string.Empty;
         [ForeignKey("Queue")]
-        //public int? QueueId { get; set; }
         public List<Queue>? Queues { get; set; }
     }
 }
