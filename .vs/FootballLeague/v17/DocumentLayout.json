@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\111111\\hobby\\programowanie\\FootballLeague\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|d:\\111111\\hobby\\programowanie\\footballleague\\footballleague\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|solutionrelative:footballleague\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|d:\\111111\\hobby\\programowanie\\footballleague\\footballleague\\migrations\\20240218011107_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|solutionrelative:footballleague\\migrations\\20240218011107_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|d:\\111111\\hobby\\programowanie\\footballleague\\footballleague\\views\\league\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8FB5980-4B30-4339-80D2-385AE6E53AE9}|FootballLeague\\FootballLeague.csproj|solutionrelative:footballleague\\views\\league\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,6 +35,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "FootballLeague\\Data\\Seed.cs",
+              "ToolTip": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Data\\Seed.cs",
+              "RelativeToolTip": "FootballLeague\\Data\\Seed.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:14:31.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240218011107_updateModels.cs",
+              "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Migrations\\20240218011107_updateModels.cs",
+              "RelativeDocumentMoniker": "FootballLeague\\Migrations\\20240218011107_updateModels.cs",
+              "ToolTip": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Migrations\\20240218011107_updateModels.cs",
+              "RelativeToolTip": "FootballLeague\\Migrations\\20240218011107_updateModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:03:35.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Views\\League\\Index.cshtml",
               "RelativeDocumentMoniker": "FootballLeague\\Views\\League\\Index.cshtml",
@@ -34,12 +67,11 @@
               "RelativeToolTip": "FootballLeague\\Views\\League\\Index.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-19T21:26:05.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-19T21:26:05.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MatchController.cs",
               "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Controllers\\MatchController.cs",
               "RelativeDocumentMoniker": "FootballLeague\\Controllers\\MatchController.cs",
@@ -47,12 +79,11 @@
               "RelativeToolTip": "FootballLeague\\Controllers\\MatchController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T21:02:03.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-19T21:02:03.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\111111\\hobby\\programowanie\\FootballLeague\\FootballLeague\\Views\\Match\\Index.cshtml",
               "RelativeDocumentMoniker": "FootballLeague\\Views\\Match\\Index.cshtml",
@@ -60,8 +91,7 @@
               "RelativeToolTip": "FootballLeague\\Views\\Match\\Index.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-19T20:19:12.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-19T20:19:12.894Z"
             }
           ]
         }
