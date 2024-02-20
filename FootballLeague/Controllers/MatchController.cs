@@ -14,8 +14,31 @@ namespace FootballLeague.Controllers
 
         public IActionResult Index()
         {
-            List<Match> matches= _context.Matches.ToList();
-            return View(matches);
+            var model = new QueueAndMatch();
+            model.qmMatches =
+                (List<Match>)_context.Matches
+                .Take(10)
+                .Select(m => new Match
+                {
+                    MatchId = m.MatchId,
+                    Date = m.Date,
+                    Time = m.Time,
+                    Team1 = m.Team1,
+                    Team2 = m.Team2,
+                    Score = m.Score
+                });
+            model.qmQueues =
+                (List<Queue>)_context.Queues
+                .Take(10)
+                .Select(q => new Queue
+                {
+                    QueueId = q.QueueId
+
+                });
+
+            return View(model);
+            //List<Match> matches= _context.Matches.ToList();
+            //return View(matches);
         }
     }
 }
